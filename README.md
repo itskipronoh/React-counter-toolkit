@@ -2,7 +2,7 @@ Here's a README file for the provided React code:
 
 ---
 
-# React Counter Toolkit
+# React Counter Toolkits
 
 This is a simple React component that represents a counter with increment, decrement, reset, and delete functionalities.
 

@@ -1,6 +1,4 @@
-Here's a README file for the provided React code:
 
----
 
 # React Counter Toolkits
 
